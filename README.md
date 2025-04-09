@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmut</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Java and React**
+- 🔭 I’m currently working on **Java and Back-End**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Boot**
 
 <p align="left">
 </p>
