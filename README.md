@@ -1,4 +1,4 @@
-![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=mahmutalann&label=Ziyaretçi&color=0e75b6&style=flat)
+![Profile_Views](https://komarev.com/ghpvc/?username=mahmutalann&label=Ziyaretçi&color=0e75b6&style=flat)
 
 
 <h1 align="center">Hi 👋, I'm Mahmut</h1>
