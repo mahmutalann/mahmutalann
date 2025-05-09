@@ -1,3 +1,5 @@
+![Profilime Görüntülenme Sayısı](https://profile-counter.glitch.me/mahmutalann/count.svg)
+
 <h1 align="center">Hi 👋, I'm Mahmut</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
