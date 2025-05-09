@@ -1,5 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=mahmutalann&label=Profile%20Views&color=brightgreen&style=for-the-badge)
-
+![Profile Views](https://komarev.com/ghpvc/?username=kullaniciAdiniz&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 <h1 align="center">Hi 👋, I'm Mahmut</h1>
